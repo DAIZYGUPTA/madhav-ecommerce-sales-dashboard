@@ -47,7 +47,7 @@ The dashboard answers the following questions:
 - Microsoft Excel / CSV  
 
 ## 📸 Dashboard Screenshot
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](Screenshot_Dashboard.png)
 
 ## 🚀 How to Use
 1. Clone this repository.  
